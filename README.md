@@ -1,2 +1,2 @@
 # SabziWala
-SabziWala  : Online Vegetable Marketplace
+SabziWala  : An Online Vegetable Marketplace
